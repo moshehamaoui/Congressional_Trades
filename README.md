@@ -49,7 +49,7 @@ Once scraped, I moved on to step 2:
 ### Notebook 2 - Data Cleaning
 
 In notebook 2, I determined which features of each dataset were potentially useful and which could be let go.  
-I transformed the voting data from Yes/No to 1/-1
+I transformed the voting data from Yes/No to 1/-1  
 I created the target variables by searching the stock data for price information related to the stock price near the transaction date.  
 I removed any datapoints for which the transaction data could not be useful.
 
