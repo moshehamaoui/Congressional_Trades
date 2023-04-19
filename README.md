@@ -1,5 +1,6 @@
 # Congressional_Trades
-Congressional Legislations Vs Stock Performance 
+Congressional Legislations Vs Stock Performance  
+BrainStation Data Science Capstone Project
 
 The goal of this project was to determine if there is a relationship between congressional legislations and trade success in the stock market. I aimed to look into how well each politician performed in the stock market and how they each voted in legislations within their respective congressional chambers. The idea is that congress has insider knowledge of the economy, so it is of value to determine who, if anyone, uses their knowledge and influence to trade exceptionally well in the stock market. 
 
